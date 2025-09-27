@@ -75,5 +75,3 @@ while(senha != senhaCorreta && tentativa>0){
         alert("XII, tentativas execidas")
     }
     senha = prompt("informe sua senha novamente: ")
-}//html
-
